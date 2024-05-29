@@ -2,7 +2,7 @@
 <hibernate-configuration>
     <session-factory>
         <!-- Configuration de la source de données -->
-        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/suptech1</property>
+        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/suptechEm</property>
         <property name="hibernate.connection.username">root</property>
         <property name="hibernate.connection.password"></property>
        	<!-- Création automatique des tables -->
